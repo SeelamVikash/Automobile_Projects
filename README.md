@@ -1,9 +1,6 @@
 # Automobile_Projects
 # **Finding Lane Lines on the Road** 
 
-[image1]:test_images\solidWhiteCurve.jpg
-[image2]:test_images_output\output_of_solidWhiteCurve.jpg.png
-
 # My Pipeline for side lane lines detection
 1. I have read the image.
 2. I have converted it into grayscale for easy processing.
@@ -17,9 +14,7 @@ I have modified draw_lines function as follows
 3. Built a line equation.
 4. Drawn lines using the line equation by giving the coordinates with in my limit.
 
-![image1](solidWhiteCurve.jpg)
-![image2](output_of_solidWhiteCurve.jpg.png)
-
+<img src="Automobile_Projects/CarND-LaneLines-P1-master/test_images_output/output_of_solidWhiteCurve.jpg.png" alt="Output" width="200" height="400">
 
 # Pipeline for side lane lines detection in a video
 1. Used VideoFileClip for reading the video.
