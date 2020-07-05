@@ -13,14 +13,17 @@ I have modified draw_lines function as follows
 2. Built a regression fit and found coefficients for extrapolation.
 3. Built a line equation.
 4. Drawn lines using the line equation by giving the coordinates with in my limit.
+### initial image
+<img src="https://github.com/SeelamVikash/Automobile_Projects/blob/master/CarND-LaneLines-P1-master/test_images/solidWhiteCurve.jpg" alt="Output" width="300" height="200">
 
-### Output
-<p><img src="https://github.com/SeelamVikash/Automobile_Projects/blob/master/CarND-LaneLines-P1-master/test_images_output/output_of_solidWhiteCurve.jpg.png" alt="Output" width="300" height="200"></p>
+### Output image
+<img src="https://github.com/SeelamVikash/Automobile_Projects/blob/master/CarND-LaneLines-P1-master/test_images_output/output_of_solidWhiteCurve.jpg.png" alt="Output" width="300" height="200">
 
 # Pipeline for side lane lines detection in a video
 1. Used VideoFileClip for reading the video.
 2. Used fl_image to read and process the data Frame by Frame using process_image function.
 
+<a href="https://youtu.be/eB6Nlvnuago">Click this to see the result on video</a>
 
 
 ### 2. potential shortcomings with my current pipeline
