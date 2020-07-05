@@ -14,7 +14,8 @@ I have modified draw_lines function as follows
 3. Built a line equation.
 4. Drawn lines using the line equation by giving the coordinates with in my limit.
 
-<img src="Automobile_Projects/CarND-LaneLines-P1-master/test_images_output/output_of_solidWhiteCurve.jpg.png" alt="Output" width="200" height="400">
+### Output
+<p><img src="https://github.com/SeelamVikash/Automobile_Projects/blob/master/CarND-LaneLines-P1-master/test_images_output/output_of_solidWhiteCurve.jpg.png" alt="Output" width="300" height="200"></p>
 
 # Pipeline for side lane lines detection in a video
 1. Used VideoFileClip for reading the video.
