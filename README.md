@@ -1,7 +1,6 @@
 # Automobile_Projects
 # **Finding Lane Lines on the Road** 
 
-
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
@@ -19,8 +18,9 @@ I have modified draw_lines function as follows
 3. Built a line equation.
 4. Drawn lines using the line equation by giving the coordinates with in my limit.
 
-![Input Image](solidWhiteCurve.jpg)
-![Output_image](output_of_solidWhiteCurve.jpg)
+[image]:test_images\solidWhiteCurve.jpg
+[image]:test_images_output\output_of_solidWhiteCurve.jpg.png
+
 
 # Pipeline for side lane lines detection in a video
 1. Used VideoFileClip for reading the video.
