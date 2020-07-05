@@ -1,7 +1,8 @@
 # Automobile_Projects
 # **Finding Lane Lines on the Road** 
 
-
+[image1]:test_images\solidWhiteCurve.jpg
+[image2]:test_images_output\output_of_solidWhiteCurve.jpg.png
 
 # My Pipeline for side lane lines detection
 1. I have read the image.
@@ -16,8 +17,8 @@ I have modified draw_lines function as follows
 3. Built a line equation.
 4. Drawn lines using the line equation by giving the coordinates with in my limit.
 
-![image1](test_images\solidWhiteCurve.jpg)
-[image2]:(test_images_output\output_of_solidWhiteCurve.jpg.png)
+![image1](solidWhiteCurve.jpg)
+![image2](output_of_solidWhiteCurve.jpg.png)
 
 
 # Pipeline for side lane lines detection in a video
